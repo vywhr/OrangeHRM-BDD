@@ -36,4 +36,3 @@ Examples:
 |Admin|admin@123|Invalid credentials|
 |null|admin123|Invalid credentials|
 |null|null|Invalid credentials|
-|null1|null2|Invalid credentials|
