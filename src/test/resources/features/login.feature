@@ -37,3 +37,5 @@ Examples:
 |null|admin123|Invalid credentials|
 |null|null|Invalid credentials|
 |null1|null1|Invalid credentials|
+
+# This is the comment added for the git -fetch request from IntelliJ .
