@@ -21,7 +21,7 @@ import io.cucumber.junit.CucumberOptions;
         tags = "@InvalidLogin"             // Run specific tagged scenarios
 )
 
-public class LoginFeatureRunner {
+public class LoginFeatureTest {
 
 }
 
