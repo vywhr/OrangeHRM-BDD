@@ -18,24 +18,7 @@ import io.cucumber.junit.*;
 		monochrome=true,
 		dryRun=true,
 		tags="@RegressionTest"
-		
-	
 		)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-public class HomePageRunner {
+public class HomePageTest {
 
 }
